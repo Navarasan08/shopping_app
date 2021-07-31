@@ -1,16 +1,13 @@
 # shopping_app
 
-A new Flutter project.
+A simple Cart Application.
 
-## Getting Started
+description: 
+  - Its just a one page application for showing the cart products. Once the user registered successfully and can able to see the products in cart. Feature all the user to modify the cart.
 
-This project is a starting point for a Flutter application.
+Featured added:
+1. Firebase Authentication & Firestore Database,
+2. Flutter Bloc Pattern.
+3. Slide to Remove From Cart.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+apk Link - [app.apk](https://github.com/Navarasan08/shopping_app/assets/app.apk)
