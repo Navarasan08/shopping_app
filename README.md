@@ -10,5 +10,5 @@ Featured added:
 2. Flutter Bloc Pattern.
 3. Slide to Remove From Cart.
 
-apk Link - [apps](https://github.com/Navarasan08/shopping_app/assets)
+apk Link - [apps](https://github.com/Navarasan08/shopping_app/tree/main/assets/flutter-apk)
 ( Download the apk from assets/flutter-apk folder ).
